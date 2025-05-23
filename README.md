@@ -20,7 +20,7 @@ A web dashboard application to manage, analyze, and visualize your favorite phra
 
 ## Demo
 
-> *Coming soon… add screenshots or a short video showing the application in action.*
+https://phrase-manager.vercel.app/
 
 ---
 
