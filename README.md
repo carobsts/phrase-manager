@@ -13,8 +13,6 @@ A web dashboard application to manage, analyze, and visualize your favorite phra
 - [Installation](#installation)  
 - [Available Scripts](#available-scripts)  
 - [Testing](#testing)  
-- [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
@@ -43,8 +41,7 @@ https://phrase-manager.vercel.app/
 - **Form Validation** with react-hook-form and Zod  
 - **Responsive Sidebar** built with Radix UI and styled-components  
 - **Notifications / Toasts** using Sonner  
-- **Animations** via Framer Motion  
-- **Dark / Light / System Theme** support with styled-components ThemeProvider  
+- **Animations** via Framer Motion   
 - Built with **Vite** for fast development and production builds
 
 ---
@@ -84,7 +81,6 @@ https://phrase-manager.vercel.app/
 - **Charts**: Recharts, react-chartjs-2, Chart.js  
 - **Drag & Drop**: @hello-pangea/dnd  
 - **Animations**: Framer Motion  
-- **Notifications**: Sonner  
 - **Testing**: Jest, @testing-library/react, ts-jest, jest-environment-jsdom  
 
 ---
