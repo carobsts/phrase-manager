@@ -39,8 +39,7 @@ https://phrase-manager.vercel.app/
   - Category distribution pie chart  
   - Completion progress bar  
 - **Form Validation** with react-hook-form and Zod  
-- **Responsive Sidebar** built with Radix UI and styled-components  
-- **Notifications / Toasts** using Sonner  
+- **Responsive Sidebar** built with Radix UI and styled-components   
 - **Animations** via Framer Motion   
 - Built with **Vite** for fast development and production builds
 
